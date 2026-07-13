@@ -2,7 +2,7 @@
 
 Lean 4 / Mathlib formalization of the deterministic proof in
 "An AI-Derived Proof of Erdős Problem #728 via Higher-Power Carry
-Compensation."
+Compensation." You can read the paper at: [Paper link](https://omniscienceproject.com/papers/an-ai-derived-proof-of-erdos-problem-728-via-higher-power-carry-1hwQTOM4). A companion paper with a different method of proof to the same problem is also available at: [Companion Paper link](https://omniscienceproject.com/papers/a-deterministic-resolution-of-erdos-problem-728-via-small-prime-nQHYqk7S).
 
 ## Status: complete and kernel-verified
 
