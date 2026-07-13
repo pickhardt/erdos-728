@@ -1,0 +1,18 @@
+# Lake build output
+/.lake/
+
+# Legacy Lake build directories
+/build/
+/lake-packages/
+
+# Compiled Lean artifacts (normally under .lake)
+*.olean
+*.ilean
+
+# macOS
+.DS_Store
+
+# Editor / OS cruft
+*.swp
+*~
+.idea/
